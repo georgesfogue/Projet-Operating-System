@@ -338,8 +338,5 @@ int myps (int argc, char **argv)
       affiche_ps ();
       open_proc ();
    }
-   
-      
-
    exit (0);
 }
