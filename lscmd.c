@@ -7,7 +7,7 @@
 #include <dirent.h>
 #include <sys/stat.h>
 
-#include "lscmd.h"
+#include "cmdlib.h"
 
 #define COL_RED "\x1b[31m"
 #define COL_OFF "\x1b[0m"
